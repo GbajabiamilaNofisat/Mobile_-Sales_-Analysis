@@ -71,4 +71,5 @@ SELECT PaymentMethod,SUM(TotalRevenue) AS Sales
 
 [Link to chart](https://ibb.co/TDN4rRzV)
 
-[View my LinkedIn Project](https://www.linkedin.com/in/nofisat-gbajabiamila/)
+[View my LinkedIn Project]
+(https://www.linkedin.com/in/nofisat-gbajabiamila/)
