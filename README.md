@@ -7,7 +7,8 @@
 ---
 
 ## Contents
-Project Overview | Data Source | Tools Used | Table Array | Query Language (SQL) | Visualization
++ [Project Overview](#Project-Overview) |+ [Data Source](#Data-Source) |+ [Tools Used](#Tools-Used) |+ [Table Outlay](#Table-Outlay) |+ [Query Language](#Query-Language) |
++ [Visualization](#Visalization)
 
 ---
 ## Project Overview:
@@ -30,7 +31,8 @@ www.kaggle.com/dataset
 |4f87d114-f522-4ead-93e3-f336402df6aa|	4/5/2024	|right	|Thomas-Thompson	|1010.34	|64	|2378.82	|55	|Female	|East Linda	|Credit Card|
 |6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1|	2/13/2024	|summer	| Sanchez-Williams	|400.8	|95	|31322.56	|57	|Male| East Angelicastad	|Online|
 
-## Query Language: (SQL)
+## Query Language: 
+### (SQL)
 Some of the query language to retrieve records are displayed here
 
 ```SQL
