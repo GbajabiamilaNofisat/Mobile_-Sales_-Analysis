@@ -30,4 +30,27 @@ www.kaggle.com/dataset
 |4f87d114-f522-4ead-93e3-f336402df6aa|	4/5/2024	|right	|Thomas-Thompson	|1010.34	|64	|2378.82	|55	|Female	|East Linda	|Credit Card|
 |6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1|	2/13/2024	|summer	| Sanchez-Williams	|400.8	|95	|31322.56	|57	|Male| East Angelicastad	|Online|
 
+## Query Language: (SQL)
+Some of the query language to retrieve records are displayed here
+
+```SQL
+---to categorize the data into silver, gold and diamond---
+SELECT Price,
+CASE
+WHEN price <= 100 THEN 'Silver' WHEN Price >= 500 THEN 'Gold'
+ELSE 'Diamond'
+END
+FROM [dbo].[mobile_sales];
+
+```
+```SQL
+---to retrieve the sales by payment method arranging from largest to smallest amount---
+SELECT PaymentMethod,SUM(TotalRevenue) AS Sales
+  FROM [dbo].[mobile_sales]
+  GROUP BY PaymentMethod
+  ORDER BY Sales DESC;
+
+```
+ 
+
 
