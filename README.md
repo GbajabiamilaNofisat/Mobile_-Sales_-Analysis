@@ -59,6 +59,8 @@ SELECT PaymentMethod,SUM(TotalRevenue) AS Sales
 
  ### Charts
  
-<img width="1021" height="402" alt="Mobile sales dashboard" src="https://github.com/user-attachments/assets/9e27e1a4-e5af-4081-b228-598f61121268" />
+<img width="1021" height="402" alt="Mobile sales dashboard" src="https://github.com/user-attachments/assets/9e27e1a4-e5af-4081-b228-598f61121268" /> 
 
+### PowerBI
 
+<img width="896" height="500" alt="Screenshot 2025-09-01 091624" src="https://github.com/user-attachments/assets/52b67601-d6e5-4ce3-8d6d-4ec1ac3cbfbf" />
