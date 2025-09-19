@@ -1,4 +1,4 @@
-# Mobile_Sales_Analysis
+<img width="32766" height="81" alt="image" src="https://github.com/user-attachments/assets/e0a64053-5f5e-42eb-8470-d625c5314156" /># Mobile_Sales_Analysis
 
 ## Overview:
 
@@ -20,3 +20,14 @@ www.kaggle.com/dataset
 + Pivot Tables / Charts
 + PowerBI
 + SQL
+
+  ## Table Outlay
+  First three Records
+
+ |TransactionID|	Date |MobileModel |Brand	|Price	|UnitsSold|	TotalRevenue	|CustomerAge|	CustomerGender|	Location |PaymentMethod|
+ |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|79397f68-61ed-4ea8-bcb2-f918d4e6c05b|	1/6/2024	|direction	|Green Inc	|1196.95	|85	|28002.8	|32	|Female	|Port Erik	|Online|
+|4f87d114-f522-4ead-93e3-f336402df6aa|	4/5/2024	|right	|Thomas-Thompson	|1010.34	|64	|2378.82	|55	|Female	|East Linda	|Credit Card|
+|6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1|	2/13/2024	|summer	| Sanchez-Williams	|400.8	|95	|31322.56	|57	|Male| East Angelicastad	|Online|
+
+
