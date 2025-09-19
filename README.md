@@ -59,3 +59,4 @@ SELECT PaymentMethod,SUM(TotalRevenue) AS Sales
 
  ### Charts
  
+<img width="1021" height="402" alt="Mobile sales dashboard" src="https://github.com/user-attachments/assets/9e27e1a4-e5af-4081-b228-598f61121268" />
