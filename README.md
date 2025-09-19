@@ -56,3 +56,6 @@ SELECT PaymentMethod,SUM(TotalRevenue) AS Sales
 ### Pivot Tables
 
  <img width="889" height="429" alt="Mobile sales pivot table" src="https://github.com/user-attachments/assets/832f674d-c4c0-472a-92b7-e017107fb03a" />
+
+ ### Charts
+ 
