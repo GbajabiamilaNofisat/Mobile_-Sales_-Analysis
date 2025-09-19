@@ -64,3 +64,7 @@ SELECT PaymentMethod,SUM(TotalRevenue) AS Sales
 ### PowerBI
 
 <img width="896" height="500" alt="Screenshot 2025-09-01 091624" src="https://github.com/user-attachments/assets/52b67601-d6e5-4ce3-8d6d-4ec1ac3cbfbf" />
+
+### Link to charts
+
+[Link to chart](https://ibb.co/TDN4rRzV)
