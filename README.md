@@ -1,4 +1,4 @@
-<img width="32766" height="81" alt="image" src="https://github.com/user-attachments/assets/e0a64053-5f5e-42eb-8470-d625c5314156" />## Mobile_Sales_Analysis
+## Mobile_Sales_Analysis
 
 ## Overview:
 
